@@ -21,7 +21,7 @@ To analyse the output with ease the no.of job samples is 1, but the inputs can b
 ## Approaches compared
 1. Q-Learning
 2. Double Q-Learning
-3. Deep Q-Networks
+3. Deep Q-Network
 
 ## Observations
 Deep Q-Network achieves a good tradeoff in the exploration-exploitation conundrum, compared to Q-Learning and Deep Q-Learning. Thus, helping to achieve maximum resource utilisation.
