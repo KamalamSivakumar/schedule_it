@@ -1,4 +1,4 @@
-# schedule_it
+# schedule_it 
 ## Objective
 To perform task scheduling based on CPU and Memory allocation to maximise resource utilisation using Reinforcement Learning methods, such as Q-Learning, Double Q-Learning and Deep Q-Network.
 ## Environment Creation
@@ -27,3 +27,5 @@ To analyse the output with ease the no.of job samples is 1, but the inputs can b
 Deep Q-Network achieves a good tradeoff in the exploration-exploitation conundrum, compared to Q-Learning and Deep Q-Learning. Thus, helping to achieve maximum resource utilisation.
 
 Results from all the above models can be sampled for n no.of times and the average result can be viewed for better understanding.
+
+Done the project with @monisha-0311.
